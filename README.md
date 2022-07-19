@@ -8,106 +8,106 @@ Primary language is Python3. I will be organizing these solutions based on the b
 
 ### Array
 
-Two Sum
-Best Time to Buy and Sell Stock
-Contains Duplicate
-Product of Array Except Self
-Maximum Subarray
-Maximum Product Subarray
-Find Minimum in Rotated Sorted Array
-Search in Rotated Sorted Array
-3 Sum
-Container With Most Water
+1. Two Sum
+2. Best Time to Buy and Sell Stock
+3. Contains Duplicate
+4. Product of Array Except Self
+5. Maximum Subarray
+6. Maximum Product Subarray
+7. Find Minimum in Rotated Sorted Array
+8. Search in Rotated Sorted Array
+9. 3 Sum
+10. Container With Most Water
 
 ### Binary
 
-Sum of Two Integers
-Number of 1 Bits
-Counting Bits
-Missing Number
-Reverse Bits
+1. Sum of Two Integers
+2. Number of 1 Bits
+3. Counting Bits
+4. Missing Number
+5. Reverse Bits
 
 ### Dynamic Programming
 
-Climbing Stairs
-Coin Change
-Longest Increasing Subsequence
-Longest Common Subsequence
-Word Break Problem
-Combination Sum
-House Robber
-House Robber II
-Decode Ways
-Unique Paths
-Jump Game
+1. Climbing Stairs
+2. Coin Change
+3. Longest Increasing Subsequence
+4. Longest Common Subsequence
+5. Word Break Problem
+6. Combination Sum
+7. House Robber
+8. House Robber II
+9. Decode Ways
+10. Unique Paths
+11. Jump Game
 
 ### Graph
 
-Clone Graph
-Course Schedule
-Pacific Atlantic Water Flow
-Number of Islands
-Longest Consecutive Sequence
-Alien Dictionary (Leetcode Premium)
-Graph Valid Tree (Leetcode Premium)
-Number of Connected Components in an Undirected Graph (Leetcode Premium)
+1. Clone Graph
+2. Course Schedule
+3. Pacific Atlantic Water Flow
+4. Number of Islands
+5. Longest Consecutive Sequence
+6. Alien Dictionary (Leetcode Premium)
+7. Graph Valid Tree (Leetcode Premium)
+8. Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
 ### Interval
 
-Insert Interval
-Merge Intervals
-Non-overlapping Intervals
-Meeting Rooms (Leetcode Premium)
-Meeting Rooms II (Leetcode Premium)
+1. Insert Interval
+2. Merge Intervals
+3. Non-overlapping Intervals
+4. Meeting Rooms (Leetcode Premium)
+5. Meeting Rooms II (Leetcode Premium)
 
 ### Linked List
 
-Reverse a Linked List
-Detect Cycle in a Linked List
-Merge Two Sorted Lists
-Merge K Sorted Lists
-Remove Nth Node From End Of List
-Reorder List
+1. Reverse a Linked List
+2. Detect Cycle in a Linked List
+3. Merge Two Sorted Lists
+4. Merge K Sorted Lists
+5. Remove Nth Node From End Of List
+6. Reorder List
 
 ### Matrix
 
-Set Matrix Zeroes
-Spiral Matrix
-Rotate Image
-Word Search
+1. Set Matrix Zeroes
+2. Spiral Matrix
+3. Rotate Image
+4. Word Search
 
 ### String
 
-Longest Substring Without Repeating Characters
-Longest Repeating Character Replacement
-Minimum Window Substring
-Valid Anagram
-Group Anagrams
-Valid Parentheses
-Valid Palindrome
-Longest Palindromic Substring
-Palindromic Substrings
-Encode and Decode Strings (Leetcode Premium)
+1. Longest Substring Without Repeating Characters
+2. Longest Repeating Character Replacement
+3. Minimum Window Substring
+4. Valid Anagram
+5. Group Anagrams
+6. Valid Parentheses
+7. Valid Palindrome
+8. Longest Palindromic Substring
+9. Palindromic Substrings
+10. Encode and Decode Strings (Leetcode Premium)
 
 ### Tree
 
-Maximum Depth of Binary Tree
-Same Tree
-Invert/Flip Binary Tree
-Binary Tree Maximum Path Sum
-Binary Tree Level Order Traversal
-Serialize and Deserialize Binary Tree
-Subtree of Another Tree
-Construct Binary Tree from Preorder and Inorder Traversal
-Validate Binary Search Tree
-Kth Smallest Element in a BST
-Lowest Common Ancestor of BST
-Implement Trie (Prefix Tree)
-Add and Search Word
-Word Search II
+1. Maximum Depth of Binary Tree
+2. Same Tree
+3. Invert/Flip Binary Tree
+4. Binary Tree Maximum Path Sum
+5. Binary Tree Level Order Traversal
+6. Serialize and Deserialize Binary Tree
+7. Subtree of Another Tree
+8. Construct Binary Tree from Preorder and Inorder Traversal
+9. Validate Binary Search Tree
+10. Kth Smallest Element in a BST
+11. Lowest Common Ancestor of BST
+12. Implement Trie (Prefix Tree)
+13. Add and Search Word
+14. Word Search II
 
 ### Heap
 
-Merge K Sorted Lists
-Top K Frequent Elements
-Find Median from Data Stream
+1. Merge K Sorted Lists
+2. Top K Frequent Elements
+3. Find Median from Data Stream
