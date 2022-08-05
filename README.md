@@ -29,7 +29,7 @@ Primary language is Python3. I will be organizing these solutions based on the b
 
 ### Dynamic Programming
 
-1. Climbing Stairs
+1. ~~Climbing Stairs~~
 2. Coin Change
 3. Longest Increasing Subsequence
 4. Longest Common Subsequence
@@ -71,7 +71,7 @@ Primary language is Python3. I will be organizing these solutions based on the b
 
 ### Matrix
 
-1. Set Matrix Zeroes
+1. ~~Set Matrix Zeroes~~
 2. Spiral Matrix
 3. Rotate Image
 4. Word Search
