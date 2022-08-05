@@ -33,32 +33,17 @@ def difference(sell, buy):
 
 
 def maxProfit(prices):
-	print(prices)
-	# starting from each end and moving towards center
-	buy = 0
-	sell = len(prices)-1
-	#max_profit = 0
-	low = prices[buy]
-	low_index = 0
-	high = prices[len(prices)-1]
-	high_index = len(prices)-1
-	print(f'starting low is {low} and starting high is {high}')
-	# before buy and sell indices meet in the middle
-	while low_index < high_index:
-		print(f'current high index is {high_index} and current low index is {low_index}')
-		if prices[buy] < low and low_index < high_index:
-			print(f'current low index is {low_index}')
-			low = prices[buy]
-			low_index = buy
-			print(f'new lowest price is {low} at index {low_index}')
-		if prices[sell] > high and high_index > low_index:
-			high = prices[sell]
-			high_index = sell
-			print(f'new highest sell is {high} at index {high_index}')	
-		buy += 1
-		sell -= 1
-	# print(f'current high index is {high_index} and current low index is {low_index}')
-	print(difference(high, low))
+
+	max_profit = 0
+	cheapest = float('inf')
+	
+	for i in range(len(prices)):
+		if prices[i] < cheapest:
+			cheapest = prices[i]
+		elif prices[i] - cheapest > max_profit:
+			max_profit = prices[i] - cheapest
+	
+	return max_profit
 	
 	
 
@@ -66,4 +51,4 @@ def maxProfit(prices):
 #maxProfit(prices1)
 #maxProfit(prices2)
 #maxProfit(prices3)
-maxProfit(prices4)
+print(maxProfit(prices4))
